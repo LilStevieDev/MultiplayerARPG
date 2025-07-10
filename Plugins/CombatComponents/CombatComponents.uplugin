@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Combat Components",
+	"Description": "This plugin contains few components which can speed up process of creating combat prototypes. Network Replicated",
+	"Category": "Combat",
+	"CreatedBy": "Grzegorz Szewczyk",
+	"CreatedByURL": "https://ue4dcs.com",
+	"DocsURL": "https://ue4dcs.com/combatcomponents",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e03210df4bde4d52bae82459a466ff7b",
+	"SupportURL": "https://ue4dcs.com/contact",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "CombatComponents",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac"
+			]
+		}
+	]
+}
